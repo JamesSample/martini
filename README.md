@@ -5,3 +5,5 @@ This repository contains code for exploring and processing water chemistry data 
  * **[Initial data exploration](http://nbviewer.jupyter.org/github/JamesSample/martini/blob/master/notebooks/water_chem.ipynb)**. Exploring available river chemistry datasets and various methods for standardising and resampling the raw data
  
  * **[Water chemistry for Norwegian rivers](http://nbviewer.jupyter.org/github/JamesSample/martini/blob/master/notebooks/process_norway_chem.ipynb)**. Estimating daily water chemistry time series for 25 Norwegian sites
+
+ * **[Water chemistry for Swedish rivers](http://nbviewer.jupyter.org/github/JamesSample/martini/blob/master/notebooks/process_norway_chem.ipynb)**. Estimating daily water chemistry time series for 5 Swedish sites
