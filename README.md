@@ -4,9 +4,9 @@ This repository contains code for estimating riverine inputs to Skagerrak from m
 
 ## Data processing notebooks
 
- 1. **[Data pre-processing](http://nbviewer.jupyter.org/github/JamesSample/martini/blob/master/notebooks/water_chem.ipynb)**. Standardising raw data from Norway, Sweden and Denmark
+ 1. **[Data pre-processing](https://nbviewer.jupyter.org/github/JamesSample/martini/blob/master/notebooks/01_data_pre-processing.ipynb)**. Standardising raw data from Norway, Sweden and Denmark
  
- 2. **[Estimating daily concentrations](http://nbviewer.jupyter.org/github/JamesSample/martini/blob/master/notebooks/process_norway_chem.ipynb)**. Developing regression relationships to estimate daily concentrations for as many stations as possible
+ 2. **[Estimating daily concentrations](https://nbviewer.jupyter.org/github/JamesSample/martini/blob/master/notebooks/02_riverine_inputs.ipynb)**. Developing regression relationships to estimate daily concentrations for as many stations as possible
  
 ## Plots and visualisations
 
